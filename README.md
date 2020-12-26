@@ -1,4 +1,5 @@
 # INGV---Volcanic-Eruption-Prediction
+Solution to Kaggle challenge https://www.kaggle.com/c/predict-volcanic-eruptions-ingv-oe
 
 <br>
 This competition provides you with readings from several seismic sensors around a volcano and challenges you to estimate how long it will be until the next eruption. The data represent a classic signal processing setup that has resisted traditional methods.<br>
